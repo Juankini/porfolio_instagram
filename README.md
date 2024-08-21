@@ -30,3 +30,5 @@ The script will create a portafolio.pdf file containing the downloaded photos.
 
 License
 MIT
+
+pip install fpdf2
