@@ -25,7 +25,8 @@ Run the script:
 
 bash
 Copiar código
-python index.py
+python descarga-py para descargar las fotos
+python index.py para crear el portafolio 
 The script will create a portafolio.pdf file containing the downloaded photos.
 
 License
